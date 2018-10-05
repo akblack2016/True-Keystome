@@ -1,0 +1,6 @@
+echo "# True-Keystome" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/akblack2016/True-Keystome.git
+git push -u origin master
